@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "hmh_jwtPrivateKey",
+  "mongoURI": "hmh_db"
+}
