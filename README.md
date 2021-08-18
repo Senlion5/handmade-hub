@@ -2,7 +2,7 @@
 
 > A Social Network for Handmade Crafters
 
-Handmade Hub is a full stack, entirely functional web application built with JavaScript ES6+. This is a MERN project: mongoDB, express, React and Node.js; Redux state management and a dozen of third party libraries are applied. A customized CSS theme is designed with SASS. This demo project is a part of the software developer’s professional portfolio. 
+Handmade Hub is a full stack, entirely functional [web application](https://handmade-hub-ed.herokuapp.com/) built with JavaScript ES6+. This is a MERN project: mongoDB, express, React and Node.js; Redux state management and a dozen of third party libraries are applied. A customized CSS theme is designed with SASS. This demo project is a part of the software developer’s professional portfolio. 
 
 ---
 
