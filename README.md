@@ -1,8 +1,8 @@
-# HandMade Hub 2.3
+# HandMade_Hub | Web Application
 
-> Social Network for Handmade Crafters
+> A Social Network for Handmade Crafters
 
-This is a Social Network for Handmade Crafters made to demonstrate my web development knowledge and skills. The final working version is deployed to [Heroku](https://handmade-hub-ed.herokuapp.com/). This network app includes authentication, profiles, forums with posts, comments and likes.
+Handmade Hub is a full stack, entirely functional web application built with JavaScript ES6+. This is a MERN project: mongoDB, express, React and Node.js; Redux state management and a dozen of third party libraries are applied. A customized CSS theme is designed with SASS. This demo project is a part of the software developer’s professional portfolio. 
 
 ---
 
@@ -17,9 +17,9 @@ This is a Social Network for Handmade Crafters made to demonstrate my web develo
 }
 ```
 
-Set up the environment variables.
+Set up the environment variables first.
 
-This network app is designed to be secure.
+* This web application is designed to be secure.
 
 ### Install server dependencies
 
@@ -46,7 +46,7 @@ npm run dev
 
 ### Author
 
-Ed Suomin
+Edward Suomin
 
 ### Version
 
